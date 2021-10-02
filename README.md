@@ -1,2 +1,4 @@
-# first-blog
-A first blog to help learn and understand web devleopment.
+# my-blog
+Music-blog
+
+My first starter blog. 
