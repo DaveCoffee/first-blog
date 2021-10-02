@@ -60,6 +60,7 @@ font-size: 1.25em;
 
 ul {
     list-style: none;
+    border: 1px solid black;
     background-color: #73a59c;
     border-radius: 3px;
 
