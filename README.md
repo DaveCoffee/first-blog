@@ -1,4 +1,6 @@
-# my-blog
-Music-blog
+# First Blog
 
-My first starter blog. 
+## Description
+
+
+I am learning web development and so created a basic blog, it also gives me a change to add on, as I learn new things. 
